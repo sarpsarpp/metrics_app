@@ -1,0 +1,44 @@
+{
+  "Mag7": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "META",
+    "TSLA",
+    "NVDA"
+  ],
+  "Semis": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "TSM",
+    "AVGO",
+    "QCOM",
+    "MU",
+    "AMAT"
+  ],
+  "FAANG": [
+    "META",
+    "AAPL",
+    "AMZN",
+    "NFLX",
+    "GOOGL"
+  ],
+  "Banks": [
+    "JPM",
+    "BAC",
+    "WFC",
+    "C",
+    "GS",
+    "MS"
+  ],
+  "Energy": [
+    "XOM",
+    "CVX",
+    "COP",
+    "SLB",
+    "EOG",
+    "PXD"
+  ]
+}
