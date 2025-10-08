@@ -1,0 +1,7 @@
+[server]
+port = 8502
+
+# You can also configure other settings here
+# headless = true
+# enableCORS = false
+# enableXsrfProtection = true
